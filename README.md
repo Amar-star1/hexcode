@@ -11,7 +11,7 @@ Pip2 install requests
 Pip2 install mechanize
 
 git clone https://github.com/Amar-star1/hexcode
-cd hexcode
 
+cd hexcode
 
 python hexcode.py
